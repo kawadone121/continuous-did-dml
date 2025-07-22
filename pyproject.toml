@@ -1,0 +1,22 @@
+[project]
+name = "continuous-did-dml"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "kawadone121",email = "ryoto.kawahara@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "jupyter (>=1.1.1,<2.0.0)",
+    "pandas (>=2.3.0,<3.0.0)",
+    "numpy (>=2.3.0,<3.0.0)",
+    "matplotlib (>=3.10.3,<4.0.0)",
+    "plotly (>=6.1.2,<7.0.0)",
+    "kaleido (==0.2.1)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

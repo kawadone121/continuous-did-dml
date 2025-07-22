@@ -1,0 +1,2 @@
+[START] Simulation started at 2025-06-09 06:00:15.268981
+[END] Simulation completed at 2025-06-09 20:41:30.475048 (Elapsed: 881.25 min)
